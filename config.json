@@ -1,4 +1,3 @@
-Download
 {
   "log": { "level": "info" },
   "inbounds": [{
@@ -11,4 +10,3 @@ Download
   }],
   "outbounds": [{ "type": "direct", "tag": "direct" }]
 }
-a
